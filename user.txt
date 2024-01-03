@@ -1,0 +1,41 @@
+#FRESHCO Sdn Bhd
+
+#Admin
+# 1.	Can login to access system.
+# 2.	Can upload Groceries detail in system. (Medicine name, exp date, price, specification, etc...)
+# 3.	Can view all uploaded Groceries
+# 4.	Can update/modify Groceries information if required.
+# 5.	Can delete Groceries information.
+# 6.	Can search specific Groceries detail.
+# 7.	Can view all orders of customers.
+# 8.	Can search order of specific customer.
+# 9.	Exit
+
+#New Customer
+# 1.	Can view Groceries detail.
+# 2.	Can do registration by providing their detail like Name, Address, Email ID, Contact Number, Gender, Date_Of_Birth, User ID, Password, Rewrite Password, etc…
+# 3.	Exit
+
+#Registered Customer
+# 1.	Can login to the system.
+# 2.	View all Groceries detail.
+# 3.	Place order of Groceries and do payment.
+# 4.	Can view own order.
+# 5.	Can view personal information.
+# 6.	Exit
+
+100PLUS RM4.0   31AUG   AVAILABLE
+APPLE   RM2.4   7OCT    AVAILABLE
+APPLEJUICE  RM4.0   14MAR   AVAILABLE
+MANGO   RM5.0   3OCT    AVAILABLE
+ORANGE  RM3.0   14MAR   SHORTAGE
+TOMATO  RM3.0   12AUG   AVAILABLE
+
+
+ADAM	ADAM@gmail.com	0134567890	AUG31	ADAM03	ADAM1234	
+CHOOI	CHOOI@gmail.com	0123456789	MAR22	CHOOI03	CHOOI1234	
+JAY	JAY@gmail.com	0101234567	MAY15	JAY03	JAY1234	
+Lisoh	Lisoh@gmail.com	0101237896	JAN27	LISOH03	LISOH1234	
+
+APPLE	RM4.0	0.3kg	12.07.2022	3	
+ORANGE	RM3.0	0.7kg	24.07.2022	10	
