@@ -10,7 +10,7 @@
 
 #FRESHCO Sdn Bhd
 
-##Admin
+## Admin
 1.	Can login to access system.
 2.	Can upload Groceries detail in system. (Medicine name, exp date, price, specification, etc...)
 3.	Can view all uploaded Groceries
@@ -21,12 +21,12 @@
 8.	Can search order of specific customer.
 9.	Exit
 
-##New Customer
+## New Customer
 1.	Can view Groceries detail.
 2.	Can do registration by providing their detail like Name, Address, Email ID, Contact Number, Gender, Date_Of_Birth, User ID, Password, Rewrite Password, etc…
 3.	Exit
 
-##Registered Customer
+## Registered Customer
 1.	Can login to the system.
 2.	View all Groceries detail.
 3.	Place order of Groceries and do payment.
